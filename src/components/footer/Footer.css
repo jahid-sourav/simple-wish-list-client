@@ -1,0 +1,3 @@
+.footer-text {
+  @apply text-white text-base sm:text-lg font-normal mb-0 flex items-center justify-center;
+}

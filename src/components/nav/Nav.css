@@ -1,0 +1,11 @@
+.logo {
+  @apply inline-block text-black/[.8] font-semibold text-2xl capitalize;
+}
+
+.active-nav-link,
+.default-nav-link {
+  @apply font-normal text-lg text-gray-700;
+}
+.active-nav-link {
+  @apply font-medium text-green-700;
+}

@@ -1,0 +1,12 @@
+/* Template Common Styles Starts Here */
+.footer,
+.header {
+  @apply bg-black/[.05] py-4;
+}
+.template-container {
+  @apply container mx-auto px-2;
+}
+.footer {
+  @apply bg-black;
+}
+/* Template Common Styles Ends Here */
