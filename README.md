@@ -3,6 +3,9 @@
 ## Project Overview
 Simple Wish List is a MERN stack application that allows users to add, edit, and delete wishes. The application provides a straightforward interface for managing personal wishes, demonstrating fundamental CRUD (Create, Read, Update, Delete) operations. This project serves as an excellent example for those learning full-stack web development.
 
+## Live URL
+https://simple-wish-list.netlify.app
+
 ## Features
 - **Add Wish:** Users can add their wishes via a simple input form.
 - **Edit Wish:** Any wish can be edited, enabling users to update wish details.
